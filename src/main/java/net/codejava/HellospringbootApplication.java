@@ -13,11 +13,10 @@ public class HellospringbootApplication {
     }
 
 }
-/*
 @RestController
 class HelloWorld{
     @GetMapping("/")
     String hello(){
         return "Hello World";
     }
-}*/
+}
